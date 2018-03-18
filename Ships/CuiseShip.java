@@ -1,0 +1,3 @@
+class CuiseShip extends Ship {
+	
+}

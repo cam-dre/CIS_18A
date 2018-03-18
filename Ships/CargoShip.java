@@ -1,0 +1,3 @@
+class CargoShip extends Ship {
+	
+}
