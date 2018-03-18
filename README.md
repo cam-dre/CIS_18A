@@ -1,2 +1,2 @@
 # CIS_18A
-This Repository contains code I wrote in my "Java Programming: Objects" course
+This repository contains code I wrote in my "Java Programming: Objects" course.
