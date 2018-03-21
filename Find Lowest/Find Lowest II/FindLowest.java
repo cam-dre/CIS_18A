@@ -7,13 +7,13 @@ public class FindLowest {
 		int num3;
 		
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Enter the first ineger: ");
+		System.out.println("Enter the first integer: ");
 		num1 = scan.nextInt();
 		
-		System.out.println("Enter the second ineger: ");
+		System.out.println("Enter the second integer: ");
 		num2 = scan.nextInt();
 		
-		System.out.println("Enter the first ineger: ");
+		System.out.println("Enter the first integer: ");
 		num3 = scan.nextInt();
 		
 		if ((num1 < num2) && (num1 < num3)) {
