@@ -12,7 +12,7 @@ public class Practice {
 		name = name.toUpperCase();
 		
 		System.out.println("Here it is in upper case:  " + name);
-		System.out.println("there are " + name.length() + " charaters.");
+		System.out.println("there are " + name.length() + " characters.");
 		
 		scan.close();
 	
