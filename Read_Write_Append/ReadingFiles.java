@@ -8,7 +8,7 @@ public class ReadingFiles {
 		File inFile = new File("c:\\x\\numbers.txt");
 		Scanner scan = new Scanner(inFile);
 		
-		System.out.println("Here art the numbers in the file:  ");
+		System.out.println("Here are the numbers in the file:  ");
 		while (scan.hasNext()) {
 			number = scan.nextInt();
 			System.out.println(number);
